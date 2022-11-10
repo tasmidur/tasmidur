@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=tasmidur&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently working **NestJS, React, Typescript, PHP, ELK Stack, Kafka, MongoDb, RabbitMq etc.**
+- 🌱 I’m currently working **NestJS, React, Typescript, PHP, ELK Stack, Kafka, MongoDb, RabbitMq, FluentBit,FluentD,Keycloak,WSO2 API Manager etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/tasmidur?tab=repositories)
 
