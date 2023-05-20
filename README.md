@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tasmidur.netlify.app/](https://tasmidur.netlify.app/)
 
-- 📝 I regularly write articles on [https://tasmidur.hashnode.dev/](https://tasmidur.hashnode.dev/)
+- 📝 I regularly write articles on [https://tasmidur.medium.com/](https://tasmidur.medium.com/)
 
 - 💬 Ask me about **reactJs, Laravel, Node, NestJs**
 
