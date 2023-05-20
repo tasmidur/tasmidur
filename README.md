@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tasmidur</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h6 align="center">
+  Experienced Full Stack Software Engineer with 3+ years expertise in Laravel, NodeJs, NestJs, MySQL, MongoDB, ELK Stack, RabbitMq, Kafka, Kafka Debezium, React, Vue Js, Socket, and Distributed Systems. Skilled in developing scalable software solutions and effective data storage systems. Proficient in creating dynamic, responsive user interfaces. Strong in building real-time applications using Socket and Distributed Systems
+</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasmidur&label=Profile%20views&color=0e75b6&style=flat" alt="tasmidur" /> </p>
 
